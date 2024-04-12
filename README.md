@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Allupeng
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning SCIP
-- 💞️ I’m looking to collaborate on build how-to-improve-programming-skills
+- 👋 Hi, I’m Allupeng, A man with two cats baby.
+- 👀 I’m interested in BlockChain and CryptoGraphy
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking for an open-source rust project to contribute on
 - 📫 How to reach me allupeng417@gmail.com
 
 <!---
